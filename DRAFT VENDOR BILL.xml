@@ -1,0 +1,168 @@
+<?xml version="1.0"?><!DOCTYPE pdf PUBLIC "-//big.faceless.org//report" "report-1.1.dtd">
+<pdf>
+<head>
+	<link name="NotoSans" type="font" subtype="truetype" src="${nsfont.NotoSans_Regular}" src-bold="${nsfont.NotoSans_Bold}" src-italic="${nsfont.NotoSans_Italic}" src-bolditalic="${nsfont.NotoSans_BoldItalic}" bytes="2" />
+	<#if .locale == "zh_CN">
+		<link name="NotoSansCJKsc" type="font" subtype="opentype" src="${nsfont.NotoSansCJKsc_Regular}" src-bold="${nsfont.NotoSansCJKsc_Bold}" bytes="2" />
+	<#elseif .locale == "zh_TW">
+		<link name="NotoSansCJKtc" type="font" subtype="opentype" src="${nsfont.NotoSansCJKtc_Regular}" src-bold="${nsfont.NotoSansCJKtc_Bold}" bytes="2" />
+	<#elseif .locale == "ja_JP">
+		<link name="NotoSansCJKjp" type="font" subtype="opentype" src="${nsfont.NotoSansCJKjp_Regular}" src-bold="${nsfont.NotoSansCJKjp_Bold}" bytes="2" />
+	<#elseif .locale == "ko_KR">
+		<link name="NotoSansCJKkr" type="font" subtype="opentype" src="${nsfont.NotoSansCJKkr_Regular}" src-bold="${nsfont.NotoSansCJKkr_Bold}" bytes="2" />
+	<#elseif .locale == "th_TH">
+		<link name="NotoSansThai" type="font" subtype="opentype" src="${nsfont.NotoSansThai_Regular}" src-bold="${nsfont.NotoSansThai_Bold}" bytes="2" />
+	</#if>
+    <style type="text/css">table { font-size: 9pt; table-layout: fixed; width: 100%; }
+th { font-weight: bold; font-size: 8pt; vertical-align: middle; padding: 5px 6px 3px; background-color: #e3e3e3; color: #333333; padding-bottom: 10px; padding-top: 10px; }
+td { padding: 4px 6px; }
+b { font-weight: bold; color: #333333; }
+</style>
+</head>
+<body padding="0.5in 0.5in 0.5in 0.5in" size="Letter">
+    <table align="center" border="1" cellpadding="0" cellspacing="0" style="width:95%;"><tr>
+	<td>
+	<table align="center" cellpadding="0" cellspacing="0"><tr>
+		<td>&nbsp;</td>
+		<td colspan="3" style="text-align: center; "><br /><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;INTERNATIONAL GRADUATE SCHOOL OF LEADERSHIP, INC</strong></td>
+		<td>&nbsp;</td>
+		</tr>
+		<tr>
+		<td>&nbsp;</td>
+		<td colspan="3" style="text-align: center; "><span style="margin-left:25%">12 Daisy St., DRJ Subd., Sauyo,</span><br /><span style="margin-left:19%;">Novaliches, Quezon City Philippines 1116</span></td>
+		<td>&nbsp;</td>
+		</tr>
+		<tr>
+		<td>&nbsp;</td>
+		</tr></table>
+
+	<table cellpadding="0" cellspacing="0" style="margin-left:70px;"><tr>
+		<td>&nbsp;</td>
+		<td style="text-align: center;"><br /><strong><span style="text-align:center;">VENDOR BILL</span></strong></td>
+		<td>&nbsp;</td>
+		</tr>
+		<tr>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		</tr></table>
+
+	<table><tr>
+		<td>
+		<table align="center" cellpadding="0" cellspacing="0"><tr>
+			<td cellpadding="0" colspan="1" style="width:5px; ">&nbsp;<span style="padding-left:0px;"> <b>Vendor Name:</b></span></td>
+			<td colspan="3" style="border-bottom:1px; width:90px;"><span>&nbsp;</span></td>
+			<td>&nbsp;<span style="padding-left:50px;"><strong>Ref#:&nbsp;</strong></span><span style="border-bottom:1px;"> &nbsp;xxxxxx</span></td>
+			</tr>
+			<tr>
+			<td cellpadding="0" colspan="1" style="width:5px; ">&nbsp;<span style="padding-left:1px;"><b>Created from:</b></span>&nbsp;</td>
+			<td colspan="3" style="border-bottom:1px; width:90px;"><span>&nbsp;</span></td>
+			<td>&nbsp;<span style="padding-left:50px;"><strong>Bill Date:&nbsp;</strong></span><span style="border-bottom:1px;"> &nbsp;xxxx xxxx xxxx xx</span></td>
+			</tr>
+			<tr>
+			<td cellpadding="0" colspan="1" style="width:5px; ">&nbsp;<span style="padding-left:2px;"><b>Billed by:</b></span>&nbsp;</td>
+			<td colspan="3" style="border-bottom:1px; width:90px;"><span>&nbsp;</span></td>
+			<td>&nbsp;<span style="padding-left:50px;"><strong>Approvers:&nbsp;</strong></span>42005 Ayyong, Marjorie B</td>
+			</tr>
+			<tr>
+			<td cellpadding="0" colspan="3">&nbsp;<span style="padding-left:0px;"> <b>Memo:</b></span><span style="border-bottom:1px;"> &nbsp;xxxx xxxx xxxx xx</span></td>
+			<td><span>&nbsp;</span></td>
+			<td>&nbsp;<span style="padding-left:120px;"><strong>&nbsp;</strong></span></td>
+			</tr>
+			<tr>
+			<td cellpadding="0" colspan="3" style="width:5px; ">&nbsp;<span style="padding-left:0px;"> <b>Status:</b></span><span style="border-bottom:1px;"> &nbsp;xxx xx</span></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;<span style="padding-left:120px;"><strong>&nbsp;</strong></span></td>
+			</tr>
+			<tr>
+			<td cellpadding="0" colspan="3" style="width:90px; ">&nbsp;<span style="padding-left:0px;"> <b>Rejection reason:</b><span style="border-bottom:1px;">&nbsp;xxxxxx xxxx xxxxx</span></span></td>
+			<td><span>&nbsp;</span></td>
+			<td style="width:50px;">&nbsp;<span style="padding-left:120px;"><strong>&nbsp;Roles:</strong></span><span style="border-bottom:1px;">&nbsp; xxxx xxx</span></td>
+			</tr>
+			<tr>
+			<td>&nbsp;</td>
+			</tr>
+			<tr>
+			<td>&nbsp;</td>
+			</tr>
+			<tr>
+			<td cellpadding="0" colspan="3" style="width:5px; ">&nbsp;<span style="padding-left:10px;"> <b>GL Impact</b></span></td>
+			<td><span>&nbsp;</span></td>
+			<td>&nbsp;</td>
+			</tr></table>
+		</td>
+		</tr></table>
+
+	<table><tr>
+		<td>
+		<table><tr>
+			<td>
+			<table border="1" style="text-align:center;"><tr>
+				<td style="width:30px;"><span style="padding-left:35px; text-align:center;"><b>Account</b></span></td>
+				<td style="width:15px;"><span style="padding-left:35px; text-align:center;"><b>Debit</b></span></td>
+				<td style="width:15px;"><span style="padding-left:35px; text-align:center;"><b>Credit</b></span></td>
+				<td style="width:30px;"><span style="padding-left:35px; text-align:center;"><b>Description</b></span></td>
+				<td style="width:10px;"><span style="padding-left:35px; text-align:center;"><b>RC</b></span></td>
+                <td style="width:10px;"><span style=" text-align:center;"><b>Charge Name</b></span></td>
+				</tr>
+				<tr>
+				<td style="width:30px;">&nbsp;</td>
+				<td style="width:15px;"><span style="padding-left:35px;">&nbsp;</span></td>
+				<td style="width:15px;"><span style="padding-left:35px;">&nbsp;</span></td>
+				<td style="width:30px;">&nbsp;</td>
+                  <td style="width:10px;"><span style="padding-left:35px;">&nbsp;</span></td>
+				</tr>
+				<tr>
+				<td style="width:30px;">&nbsp;</td>
+				<td style="width:15px;"><span style="padding-left:35px;">&nbsp;</span></td>
+				<td style="width:15px;"><span style="padding-left:35px;">&nbsp;</span></td>
+				<td style="width:30px;">&nbsp;</td>
+				<td style="width:10px;"><span style="padding-left:35px;">&nbsp;</span></td>
+				</tr>
+				<tr>
+				<td style="width:30px;">&nbsp;</td>
+				<td style="width:15px;"><span style="padding-left:35px;">&nbsp;</span></td>
+				<td style="width:15px;"><span style="padding-left:35px;">&nbsp;</span></td>
+				<td style="width:30px;">&nbsp;</td>
+				<td style="width:10px;"><span style="padding-left:35px;">&nbsp;</span></td>
+				</tr>
+				<tr>
+				<td style="width:30px;">&nbsp;</td>
+				<td style="width:15px;"><span style="padding-left:35px;">&nbsp;</span></td>
+				<td style="width:15px;"><span style="padding-left:35px;">&nbsp;</span></td>
+				<td style="width:30px;">&nbsp;</td>
+				<td style="width:10px;"><span style="padding-left:35px;">&nbsp;</span></td>
+				</tr></table>
+
+			<table><tr>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td colspan="3">&nbsp;<span style="font-size:9px;">Printed by:</span></td>
+				</tr>
+				<tr>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td colspan="3">&nbsp;<span style="font-size:9px;padding-left:50px;">XXX XXX XXX</span></td>
+				</tr>
+				<tr>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td colspan="3">&nbsp;<span style="font-size:9px; color:blue;"> This is a computer-generated form. No signature required</span>&nbsp;</td>
+				</tr></table>
+			</td>
+			</tr></table>
+		</td>
+		</tr></table>
+	</td>
+	</tr></table>
+</body>
+</pdf>
