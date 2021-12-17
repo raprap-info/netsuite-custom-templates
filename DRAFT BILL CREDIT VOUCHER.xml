@@ -38,7 +38,7 @@ b { font-weight: bold; color: #333333; }
 
 	<table cellpadding="0" cellspacing="0" style="margin-left:70px;"><tr>
 		<td>&nbsp;</td>
-		<td style="text-align: center;"><br /><strong><span style="text-align:center;">VENDOR BILL</span></strong></td>
+		<td style="text-align: center;"><br /><strong><span style="text-align:center;">BILL CREDIT VOUCHER</span></strong></td>
 		<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -57,10 +57,10 @@ b { font-weight: bold; color: #333333; }
 			<tr>
 			<td cellpadding="0" colspan="1" style="width:5px; ">&nbsp;<span style="padding-left:1px;"><b>Created from:</b></span>&nbsp;</td>
 			<td colspan="3" style="border-bottom:1px; width:90px;"><span>&nbsp;</span></td>
-			<td>&nbsp;<span style="padding-left:50px;"><strong>Bill Date:&nbsp;</strong></span><span style="border-bottom:1px;"> &nbsp;xxxx xxxx xxxx xx</span></td>
+			<td>&nbsp;<span style="padding-left:50px;"><strong>Credit Date:&nbsp;</strong></span><span style="border-bottom:1px;"> &nbsp;xxxx xxxx xxxx xx</span></td>
 			</tr>
 			<tr>
-			<td cellpadding="0" colspan="1" style="width:5px; ">&nbsp;<span style="padding-left:2px;"><b>Billed by:</b></span>&nbsp;</td>
+			<td cellpadding="0" colspan="1" style="width:5px; ">&nbsp;<span style="padding-left:2px;"><b>Credited by:</b></span>&nbsp;</td>
 			<td colspan="3" style="border-bottom:1px; width:90px;"><span>&nbsp;</span></td>
 			<td>&nbsp;<span style="padding-left:50px;"><strong>Approvers:&nbsp;</strong></span><span style="border-bottom:1px;">42005 Ayyong, Marjorie B</span></td>
 			</tr>
@@ -68,16 +68,6 @@ b { font-weight: bold; color: #333333; }
 			<td cellpadding="0" colspan="3">&nbsp;<span style="padding-left:0px;"> <b>Memo:</b></span><span style="border-bottom:1px;"> &nbsp;xxxx xxxx xxxx xx</span></td>
 			<td><span>&nbsp;</span></td>
 			<td>&nbsp;<span style="padding-left:120px;"><strong>&nbsp;</strong></span></td>
-			</tr>
-			<tr>
-			<td cellpadding="0" colspan="3" style="width:5px; ">&nbsp;<span style="padding-left:0px;"> <b>Status:</b></span><span style="border-bottom:1px;"> &nbsp;xxx xx</span></td>
-			<td>&nbsp;</td>
-			<td>&nbsp;<span style="padding-left:120px;"><strong>&nbsp;</strong></span></td>
-			</tr>
-			<tr>
-			<td cellpadding="0" colspan="3" style="width:90px; ">&nbsp;<span style="padding-left:0px;"> <b>Rejection reason:</b><span style="border-bottom:1px;">&nbsp;xxxxxx xxxx xxxxx</span></span></td>
-			<td><span>&nbsp;</span></td>
-			<td style="width:50px;">&nbsp;<span style="padding-left:120px;"><strong>&nbsp;Roles:</strong></span><span style="border-bottom:1px;">&nbsp; xxxx xxx</span></td>
 			</tr>
 			<tr>
 			<td>&nbsp;</td>

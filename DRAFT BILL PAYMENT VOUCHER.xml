@@ -38,7 +38,7 @@ b { font-weight: bold; color: #333333; }
 
 	<table cellpadding="0" cellspacing="0" style="margin-left:70px;"><tr>
 		<td>&nbsp;</td>
-		<td style="text-align: center;"><br /><strong><span style="text-align:center;">VENDOR BILL</span></strong></td>
+		<td style="text-align: center;"><br /><strong><span style="text-align:center;">BILL CREDIT VOUCHER</span></strong></td>
 		<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -51,36 +51,28 @@ b { font-weight: bold; color: #333333; }
 		<td>
 		<table align="center" cellpadding="0" cellspacing="0"><tr>
 			<td cellpadding="0" colspan="1" style="width:5px; ">&nbsp;<span style="padding-left:0px;"> <b>Vendor Name:</b></span></td>
-			<td colspan="3" style="border-bottom:1px; width:90px;"><span>&nbsp;</span></td>
-			<td>&nbsp;<span style="padding-left:50px;"><strong>Ref#:&nbsp;</strong></span><span style="border-bottom:1px;"> &nbsp;xxxxxx</span></td>
+			<td colspan="3" style="border-bottom:1px; width:50px;"><span>&nbsp;</span></td>
+			<td>&nbsp;<span style="padding-left:20px;"><strong>Check/Payment#:&nbsp;</strong></span><span style="border-bottom:1px;"> &nbsp;xxxxxx</span></td>
 			</tr>
 			<tr>
-			<td cellpadding="0" colspan="1" style="width:5px; ">&nbsp;<span style="padding-left:1px;"><b>Created from:</b></span>&nbsp;</td>
-			<td colspan="3" style="border-bottom:1px; width:90px;"><span>&nbsp;</span></td>
-			<td>&nbsp;<span style="padding-left:50px;"><strong>Bill Date:&nbsp;</strong></span><span style="border-bottom:1px;"> &nbsp;xxxx xxxx xxxx xx</span></td>
+			<td cellpadding="0" colspan="1" style="width:50px; ">&nbsp;<span style="padding-left:1px;"><b>Date:</b></span>&nbsp;xxxx xxxx</td>
+			<td colspan="3" style=" width:5px;"><span>&nbsp;</span></td>
+			<td>&nbsp;<span style="padding-left:20px;"><strong>BANK/CASH Account debited:&nbsp;</strong></span><br /><span style=" padding-left:0px; overflow-wrap: break-word; inline-size: 50px; text-align:left;">&nbsp;11113-ACI Bank and Cash-ACI : Banks-ACI : SBC Peso Checking-ACI</span></td>
 			</tr>
 			<tr>
-			<td cellpadding="0" colspan="1" style="width:5px; ">&nbsp;<span style="padding-left:2px;"><b>Billed by:</b></span>&nbsp;</td>
-			<td colspan="3" style="border-bottom:1px; width:90px;"><span>&nbsp;</span></td>
-			<td>&nbsp;<span style="padding-left:50px;"><strong>Approvers:&nbsp;</strong></span><span style="border-bottom:1px;">42005 Ayyong, Marjorie B</span></td>
+			<td cellpadding="0" colspan="3" style="width:50px; ">&nbsp;<span style="padding-left:2px; "><b>Paid by:</b></span><span style="border-bottom:1px;">&nbsp;xx xxxx</span></td>
+			<td colspan="1" style=" width:50px;"><span>&nbsp;</span></td>
+			<td>&nbsp;<span style="padding-left:50px;"><strong>&nbsp;</strong></span></td>
 			</tr>
 			<tr>
 			<td cellpadding="0" colspan="3">&nbsp;<span style="padding-left:0px;"> <b>Memo:</b></span><span style="border-bottom:1px;"> &nbsp;xxxx xxxx xxxx xx</span></td>
 			<td><span>&nbsp;</span></td>
-			<td>&nbsp;<span style="padding-left:120px;"><strong>&nbsp;</strong></span></td>
+			<td>&nbsp;<span style="padding-left:20px;"><strong>&nbsp;Currency:</strong></span></td>
 			</tr>
 			<tr>
-			<td cellpadding="0" colspan="3" style="width:5px; ">&nbsp;<span style="padding-left:0px;"> <b>Status:</b></span><span style="border-bottom:1px;"> &nbsp;xxx xx</span></td>
+			<td cellpadding="0" colspan="3">&nbsp;<span style="padding-left:0px;"> <b>Approved by: (if possible to have button)</b></span>&nbsp;</td>
 			<td>&nbsp;</td>
-			<td>&nbsp;<span style="padding-left:120px;"><strong>&nbsp;</strong></span></td>
-			</tr>
-			<tr>
-			<td cellpadding="0" colspan="3" style="width:90px; ">&nbsp;<span style="padding-left:0px;"> <b>Rejection reason:</b><span style="border-bottom:1px;">&nbsp;xxxxxx xxxx xxxxx</span></span></td>
-			<td><span>&nbsp;</span></td>
-			<td style="width:50px;">&nbsp;<span style="padding-left:120px;"><strong>&nbsp;Roles:</strong></span><span style="border-bottom:1px;">&nbsp; xxxx xxx</span></td>
-			</tr>
-			<tr>
-			<td>&nbsp;</td>
+			<td>&nbsp;<span style="padding-left:20px;"><strong>&nbsp;Amount:</strong></span><span style="border-bottom:1px;">&nbsp; xxxx xxx</span></td>
 			</tr>
 			<tr>
 			<td>&nbsp;</td>
@@ -96,15 +88,56 @@ b { font-weight: bold; color: #333333; }
 	<table><tr>
 		<td>
 		<table><tr>
-			<td><b>GL Impact</b>
-
-			<table border="1" style="text-align:center;"><tr>
-				<td style="width:30px;"><span style="padding-left:25px; text-align:center;"><b>Acct</b></span></td>
-				<td style="width:30px;"><span style="padding-left:15px; text-align:center;"><b>Description</b></span></td>
-				<td style="width:15px;"><span style="padding-left:35px; text-align:center;"><b>Debit</b></span></td>
-				<td style="width:15px;"><span style="padding-left:35px; text-align:center;"><b>Credit</b></span></td>
-				<td style="width:10px;"><span style="padding-left:35px; text-align:center;"><b>RC</b></span></td>
-				<td style="width:10px;"><span style=" text-align:center;"><b>Charge Name</b></span></td>
+			<td>
+			<table style="border-top:1px; border-left:1px; border-right:1px;"><tr>
+				<td colspan="6" style="border-bottom:1px;"><b>Payment application</b></td>
+				</tr>
+				<tr>
+				<td style="width:20px;"><span style="padding-left:25px; text-align:center;"><b>Type</b></span></td>
+				<td style="width:20px;"><span style="padding-left:15px; text-align:center;"><b>Doc No.</b></span></td>
+				<td style="width:40px;"><span style="padding-left:15px; text-align:center;"><b>Memo</b></span></td>
+				<td style="width:35px;"><span style="padding-left:0px; text-align:center;"><b>Original Amount</b></span></td>
+				<td style="width:10px;"><span style="padding-left:35px; text-align:center;"><b>Payment</b></span></td>
+				<td style="width:10px;"><span style=" text-align:center;"><b>Date Due</b></span></td>
+				</tr>
+				<tr>
+				<td style="width:30px;">&nbsp;</td>
+				<td style="width:15px;"><span style="padding-left:35px;">&nbsp;</span></td>
+				<td style="width:15px;"><span style="padding-left:35px;">&nbsp;</span></td>
+				<td style="width:30px;">&nbsp;</td>
+				<td style="width:10px;"><span style="padding-left:35px;">&nbsp;</span></td>
+				</tr>
+				<tr>
+				<td style="width:30px;">&nbsp;</td>
+				<td style="width:15px;"><span style="padding-left:35px;">&nbsp;</span></td>
+				<td style="width:15px;"><span style="padding-left:35px;">&nbsp;</span></td>
+				<td style="width:30px;">&nbsp;</td>
+				<td style="width:10px;"><span style="padding-left:35px;">&nbsp;</span></td>
+				</tr>
+				<tr>
+				<td style="width:30px;">&nbsp;</td>
+				<td style="width:15px;"><span style="padding-left:35px;">&nbsp;</span></td>
+				<td style="width:15px;"><span style="padding-left:35px;">&nbsp;</span></td>
+				<td style="width:30px;">&nbsp;</td>
+				<td style="width:10px;"><span style="padding-left:35px;">&nbsp;</span></td>
+				</tr>
+				<tr>
+				<td style="width:30px;">&nbsp;</td>
+				<td style="width:15px;"><span style="padding-left:35px;">&nbsp;</span></td>
+				<td style="width:15px;"><span style="padding-left:35px;">&nbsp;</span></td>
+				<td style="width:30px;">&nbsp;</td>
+				<td style="width:10px;"><span style="padding-left:35px;">&nbsp;</span></td>
+				</tr></table>
+              <table border="1" ><tr>
+				<td colspan="6" style="border-bottom:1px;"><b>Credit application</b></td>
+				</tr>
+				<tr>
+				<td style="width:20px;"><span style="padding-left:25px; text-align:center;"><b>Type</b></span></td>
+				<td style="width:20px;"><span style="padding-left:15px; text-align:center;"><b>Doc No.</b></span></td>
+				<td style="width:40px;"><span style="padding-left:15px; text-align:center;"><b>Memo</b></span></td>
+				<td style="width:35px;"><span style="padding-left:0px; text-align:center;"><b>Original Amount</b></span></td>
+				<td style="width:10px;"><span style="padding-left:35px; text-align:center;"><b>Payment</b></span></td>
+				<td style="width:10px;"><span style=" text-align:center;"><b>Date Due</b></span></td>
 				</tr>
 				<tr>
 				<td style="width:30px;">&nbsp;</td>
