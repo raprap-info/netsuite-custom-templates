@@ -103,32 +103,32 @@ b { font-weight: bold; color: #333333; }
           <td  style="width:10px;"><span style="padding-left:35px; text-align:center;"><b>RC</b></span></td>
         </tr>
         <tr>
-          <td  style="width:30px;"> <b> Account</b></td>
-          <td  style="width:15px;"><span style="padding-left:35px;"><b>Debit</b></span></td>
-          <td  style="width:15px;"><span style="padding-left:35px;"><b>Credit</b></span></td>
-          <td  style="width:30px;"><b>Description</b></td>
-          <td  style="width:10px;"><b>RC</b></td>
+          <td  style="width:30px;"> &nbsp; </td>
+          <td  style="width:15px;"><span style="padding-left:35px;">&nbsp;</span></td>
+          <td  style="width:15px;"><span style="padding-left:35px;">&nbsp;</span></td>
+          <td  style="width:30px;"></td>
+          <td  style="width:10px;"></td>
         </tr>
          <tr>
-          <td  style="width:30px;"> <b> Account</b></td>
-          <td  style="width:15px;"><span style="padding-left:35px;"><b>Debit</b></span></td>
-          <td  style="width:15px;"><span style="padding-left:35px;"><b>Credit</b></span></td>
-          <td  style="width:30px;"><b>Description</b></td>
-          <td  style="width:10px;"><b>RC</b></td>
+          <td  style="width:30px;"> &nbsp;</td>
+          <td  style="width:15px;"><span style="padding-left:35px;">&nbsp;</span></td>
+          <td  style="width:15px;"><span style="padding-left:35px;">&nbsp;</span></td>
+          <td  style="width:30px;">&nbsp;</td>
+          <td  style="width:10px;">&nbsp;</td>
         </tr>
          <tr>
-          <td  style="width:30px;"> <b> Account</b></td>
-          <td  style="width:15px;"><span style="padding-left:35px;"><b>Debit</b></span></td>
-          <td  style="width:15px;"><span style="padding-left:35px;"><b>Credit</b></span></td>
-          <td  style="width:30px;"><b>Description</b></td>
-          <td  style="width:10px;"><b>RC</b></td>
+          <td  style="width:30px;"> &nbsp;</td>
+          <td  style="width:15px;"><span style="padding-left:35px;">&nbsp;</span></td>
+          <td  style="width:15px;"><span style="padding-left:35px;">&nbsp;</span></td>
+          <td  style="width:30px;">&nbsp;</td>
+          <td  style="width:10px;">&nbsp;</td>
         </tr>
          <tr>
-          <td  style="width:30px;"> <b> Account</b></td>
-          <td  style="width:15px;"><span style="padding-left:35px;"><b>Debit</b></span></td>
-          <td  style="width:15px;"><span style="padding-left:35px;"><b>Credit</b></span></td>
-          <td  style="width:30px;"><b>Description</b></td>
-          <td  style="width:10px;"><b>RC</b></td>
+          <td  style="width:30px;"> &nbsp;</td>
+          <td  style="width:15px;"><span style="padding-left:35px;">&nbsp;</span></td>
+          <td  style="width:15px;"><span style="padding-left:35px;">&nbsp;</span></td>
+          <td  style="width:30px;">&nbsp;</td>
+          <td  style="width:10px;">&nbsp;</td>
         </tr>
        </table>
         <table>
